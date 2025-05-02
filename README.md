@@ -1,2 +1,3 @@
-# 2025SWD-SAT
-Repository for my Software Development SAT (School Assessed Task)
+# 2025 Software Development SAT Repository
+
+## Project Brief

@@ -21,3 +21,7 @@ The development of the solution is feasible, as it is not overly complicated. Al
 [Gantt Chart](Gantt_Chart.xlsx)
 
 [Project Log](Project_Log.xlsx)
+
+- - -
+
+[Results](Result.pdf)
